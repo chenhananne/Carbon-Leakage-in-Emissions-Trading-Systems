@@ -8,6 +8,7 @@ For meta-regression of ex-ante studies, the data was documented in MetaRegressio
 
 For meta-analysis of ex-post studies, the dota was documented in MetaAnalysis_ExPost.xls
 
-The provided data was run by Stata. It was written MetaRegression_ExAnte.dta and MataAnalysis_ExPost.dta
+The provided data was run by Stata. All results were documented in MetaAnalysis_Ante.dta and Kernel Density Estimate.dta for ex-ante studies. 
+The results of ex-post studies were documented in MetaAnalysis_ExPost_CarbonTransfer.dta, MetaAnalysis_ExPost_Trade.dta, MetaAnalysis_ExPost_ElectricityTrade.dta, and MetaAnalysis_ExPost_Investment.dta.
 
 If questions arise do not hesitate to contact us. 
